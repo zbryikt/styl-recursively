@@ -1,0 +1,30 @@
+{
+  "name": "jade-recursively",
+  "description": "Recursively build jade from source directory to destination directory",
+  "version": "0.0.1",
+  "author": {
+    "name": "Kirby T. Wu",
+    "email": "tkirby@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Kirby T. Wu",
+      "email": "tkirby@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zbryikt/jade-recursively"
+  },
+  "main": "./index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "styl": "0.2.8"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/zbryikt/jade-recursively/issues"
+  }
+}
